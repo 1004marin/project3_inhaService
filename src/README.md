@@ -9,6 +9,6 @@
 ### 오류
 > - notice.js: headerbar import시 오류 --> <headerbar/> 주석처리
 
-###반영할 점
+### 반영할 점
 > - css 분리(js 작업 용)
 > - 색감 및 뒤로가기 버튼 통일
