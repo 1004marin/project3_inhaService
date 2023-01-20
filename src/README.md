@@ -26,4 +26,5 @@
 > - 추가 게시판 기능: 스터디 회원 모집/공구 및 택시 학우 구하기
 >- 필터링 
 > - 백& 스프링 연동 -> swagger ui 체크, extension 설치 
-> - theme.js layerStyle 
+> - theme.js layerStyle --> 폰트 전달
+> - h2-console
