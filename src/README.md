@@ -28,3 +28,4 @@
 > - 백& 스프링 연동 -> swagger ui 체크, extension 설치 
 > - theme.js layerStyle --> 폰트 전달
 > - h2-console
+> - api / db 확인
