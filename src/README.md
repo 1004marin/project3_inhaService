@@ -29,3 +29,4 @@
 > - theme.js layerStyle --> 폰트 전달
 > - h2-console
 > - api / db 확인
+> - spring 환경변수
