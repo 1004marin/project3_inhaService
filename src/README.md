@@ -30,3 +30,4 @@
 > - h2-console
 > - api / db 확인
 > - spring 환경변수
+> - jvm 
