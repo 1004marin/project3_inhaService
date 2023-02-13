@@ -31,4 +31,4 @@
 > - api / db 확인
 > - spring 환경변수
 > - jvm 
-> - axios 
+> - axios 메일링 node js
