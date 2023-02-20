@@ -32,4 +32,4 @@
 > - spring 환경변수
 > - jvm 
 > - axios 메일링 node js
-> - redux 사
+> - react redux 등 모듈 
